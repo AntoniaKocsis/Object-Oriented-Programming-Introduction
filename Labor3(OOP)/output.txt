@@ -1,0 +1,14 @@
+Emergency Department,20,Radiology Department
+Emergency Department,20,Pharmacy
+Emergency Department,20,Inpatient Ward
+Emergency Department,20,Laboratory
+Emergency Department,20,Medical Equipment
+Operating Rooms,30,Radiology Department
+Operating Rooms,30,Laboratory
+Operating Rooms,30,Medical Equipment
+Radiology Department,30,Medical Equipment
+Inpatient Ward,20,Operating Rooms
+Inpatient Ward,20,Radiology Department
+Inpatient Ward,20,Pharmacy
+Inpatient Ward,20,Laboratory
+Laboratory,40,Medical Equipment
